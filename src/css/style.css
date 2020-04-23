@@ -1,0 +1,10 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkgoldenrod;
+}
+
+.logo {
+    background-image: url(../img/brazil.ico);
+    height: 230px;
+    width: 255px;
+}
